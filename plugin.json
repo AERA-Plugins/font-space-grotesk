@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "font-space-grotesk",
+  "name": "Space Grotesk for AERA",
+  "version": "0.1.0",
+  "description": "A technical geometric interface typeface.",
+  "type": "theme-extension",
+  "entry": "font",
+  "font_family": "Space Grotesk",
+  "min_host_api": 2,
+  "protocol_version": 1,
+  "icon": "font",
+  "payload": "font.ttf",
+  "payload_url": "https://github.com/AERA-Plugins/font-space-grotesk/releases/download/v0.1.0/font.ttf",
+  "payload_size": 136676,
+  "payload_sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72",
+  "permissions": []
+}
